@@ -1,6 +1,6 @@
 # 👋 ¡Hola Mundo! Soy Daniel Alejandro Carrillo Rangel
 
-### 🚀 Analista de Datos | Científico de Datos | Desarrollador de Aplicaciones
+### 🚀 Analista de Datos | Desarrollador Backend
 
 
 ## 🛠️ Tecnologías y Herramientas
